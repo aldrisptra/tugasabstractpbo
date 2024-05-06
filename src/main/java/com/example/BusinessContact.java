@@ -1,6 +1,6 @@
-package com.example;
+package com.example.Contacts;
 
-abstract class BusinessContact extends Contact {
+public class BusinessContact extends Contact {
     private Organization organization;
 
     public BusinessContact(String name, String number, String email, Organization organization) {
