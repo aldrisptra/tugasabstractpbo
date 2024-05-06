@@ -1,4 +1,4 @@
-package com.example;
+package com.example.Contacts;
 
 public class Contact {
 	private String name, number, email;
