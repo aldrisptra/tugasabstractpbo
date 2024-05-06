@@ -2,6 +2,7 @@ package com.example;
 
 import java.util.Scanner;
 
+import com.example.ContactList;
 import com.example.Contacts.*;
 
 public class Main {
