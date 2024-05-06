@@ -1,4 +1,4 @@
-package com.example.Contacts;
+package com.example;
 
 public class PersonalContact extends Contact {
     private String nickname;
