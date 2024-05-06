@@ -1,4 +1,4 @@
-package com.example.Contacts;
+package com.example;
 
 abstract class BusinessContact extends Contact {
     private Organization organization;
