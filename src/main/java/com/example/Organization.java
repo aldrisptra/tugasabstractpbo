@@ -1,4 +1,4 @@
-package com.example;
+package com.example.Contacts;
 
 public class Organization {
     private String name;
