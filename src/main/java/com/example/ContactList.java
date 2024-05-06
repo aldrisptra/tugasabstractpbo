@@ -2,7 +2,8 @@ package com.example;
 
 import java.util.ArrayList;
 
-
+import com.example.Contacts.*;
+import com.example.Contacts.BusinessContact;
 import com.example.Contacts.Contact;
 import com.example.Contacts.PersonalContact;
 
